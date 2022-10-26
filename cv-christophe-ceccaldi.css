@@ -1,4 +1,7 @@
 /* on change la couleur sur body donc de facon globale sur la page*/
+*{
+    font-family: 'Eczar', serif;
+}
 body{
     background-color: rgb(145, 183, 195); /* couleur de fond*/
     color:  rgb(253, 254, 254);  /*couleur de texte*/
